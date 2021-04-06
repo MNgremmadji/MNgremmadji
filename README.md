@@ -14,4 +14,4 @@ Feel free to reach out if you think I am a good asset for your project.
 * [Ineuron](http://ineuron.ai/)
 * [CS224n](http://web.stanford.edu/class/cs224n/)
 * [CS229](http://cs229.stanford.edu/)
-* [CS2230](https://cs230.stanford.edu/)
+* [CS230](https://cs230.stanford.edu/)
