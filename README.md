@@ -1,6 +1,6 @@
 # My Interests
 My main interests are machine learning, deep learning and natural language processing.
-I plan to build an artificial intelligence system for solving real-world. I have learned a lot of stuffs by myself. 
+I plan to build artificial intelligence systems for solving real-world. I have learned a lot of stuffs by myself. 
 Feel free to reach out if you think I am a good asset for your project.
 
 # Programming Languages
