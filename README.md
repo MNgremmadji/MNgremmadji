@@ -8,6 +8,8 @@ Feel free to reach out if you think I am a good asset for your project.
 * Python
 * R
 * C++
+* HTML
+* CSS
 
 # Online courses
 * [Coursera](https://www.coursera.org/)
